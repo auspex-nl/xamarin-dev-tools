@@ -1,4 +1,4 @@
-xamarin-dev-tools
+Xamarin Development Tools
 =================
 
 Collection of small dev tools to use when working with xamarin to develop mobile apps. Beware of ugly code and no exception handling whatsoever, use at your own risk.
